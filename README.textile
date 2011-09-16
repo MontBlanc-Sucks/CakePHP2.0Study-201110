@@ -29,4 +29,32 @@ h3. 募集
 * セッション
 ** 1枠約25分を目安に2枠
 * LT・事例紹介
-* 1枠5～10分を目安に5枠程度
+** 1枠5～10分を目安に5枠程度
+
+h3. 懇親会について
+
+21:00より懇親会を予定しています。
+会場は同じフロアにあるバー「Ajito」で行います。
+費用は未定です。（軽食代のみ徴収予定です）
+
+h3. 会場について
+
+*株式会社VOYAGE GROUP（株式会社ECナビ）さん* のご好意により、勉強会／懇親会会場を *無償で* ご用意いただけました。
+※ "株式会社ECナビさんは、2011年10月1日より株式会社VOYAGE GROUPに社名変更されます":http://ecnavi.co.jp/news/press/details/345
+
+h3. スタッフ
+
+* チーム *モンブランサックス*
+** "@MontBlancSucks":https://twitter.com/#!/MontBlancSucks 当勉強会への質問等は、こちらで受け付けます！
+*** "@konsan":https://twitter.com/#!/konsan
+*** "@hiromi2424":https://twitter.com/#!/hiromi2424
+*** "@cakephper":https://twitter.com/#!/cakephper
+*** "@mon_sat":https://twitter.com/#!/mon_sat
+
+h3. Special Thanks
+* "@ajiyoshi":https://twitter.com/#!/ajiyoshi
+* "@bash0C7":https://twitter.com/#!/bash0C7
+* "@brtriver":https://twitter.com/#!/brtriver
+* "@hamichamp":https://twitter.com/#!/hamichamp
+* "@managami":https://twitter.com/#!/managami
+* "@sabohoney_com":https://twitter.com/#!/sabohoney_com
