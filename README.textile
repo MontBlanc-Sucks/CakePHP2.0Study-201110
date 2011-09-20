@@ -35,12 +35,20 @@ h3. 懇親会について
 
 21:00より懇親会を予定しています。
 会場は同じフロアにあるバー「Ajito」で行います。
-費用は未定です。（軽食代のみ徴収予定です）
+費用は 500円程度 の予定です。
 
 h3. 会場について
 
 *株式会社VOYAGE GROUP（株式会社ECナビ）さん* のご好意により、勉強会／懇親会会場を *無償で* ご用意いただけました。
 ※ "株式会社ECナビさんは、2011年10月1日より株式会社VOYAGE GROUPに社名変更されます":http://ecnavi.co.jp/news/press/details/345
+
+h3. 設備について
+
+電源と無線LANをご用意いただいていますが、以下をご理解のうえ、ご利用ください。
+
+* 電源タップをご用意ください（コンセントの数が不足しています）
+* 無線LANの電波状況が良くない可能性があります
+** 自前の回線をご用意いただくと助かります。
 
 h3. スタッフ
 
@@ -58,3 +66,4 @@ h3. Special Thanks
 * "@hamichamp":https://twitter.com/#!/hamichamp
 * "@managami":https://twitter.com/#!/managami
 * "@sabohoney_com":https://twitter.com/#!/sabohoney_com
+* "@asami_lin":https://twitter.com/#!/asami_lin
