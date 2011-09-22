@@ -7,6 +7,8 @@ CakePHPの次世代バージョン、CakePHP2.0の勉強会です。
 前回と違いより一般的なスタイルで、CakePHP2.0についての新機能などCakePHP2.0の話題を中心としたセッション、LT、事例紹介を行います。
 例によって、お話しいただける方を募集します。詳細は下記をご覧ください。
 
+"女子枠あります":http://atnd.org/events/20213 （定員後もこちらから申し込み可能です）
+
 h4. 参加費用
 * *1,000円*
 ** 懇親会費用含む
@@ -69,7 +71,8 @@ h3. スタッフ
 *** "@cakephper":https://twitter.com/#!/cakephper
 *** "@mon_sat":https://twitter.com/#!/mon_sat
 
-h3. Special Thanks
+h3. Special Thanks （当日お手伝いいただける方など）
+
 * "@ajiyoshi":https://twitter.com/#!/ajiyoshi
 * "@bash0C7":https://twitter.com/#!/bash0C7
 * "@brtriver":https://twitter.com/#!/brtriver
