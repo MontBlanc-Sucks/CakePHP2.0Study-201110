@@ -17,15 +17,20 @@ h4. 参加費用
 h3. タイムライン
 
 |_. 時間|_. 発表者|_. タイトル|
-|18:30 - 19:00|  |開場・受付け|
+|18:30 - 19:00|  |開場・受付け ※参加費用はこのタイミングで徴収いたします|
 |19:00 - 19:15| "@cakephper":http://twitter.com/cakephper |オープニング|
-|19:15 - 19:35| 未定 |セッション1（内容未定）※募集中|
-|19:35 - 19:50|  |スイーツタイム（休憩）|
+|19:15 - 19:35| "@basuke":http://twitter.com/basuke |セッション1（内容未定）|
+|19:35 - 19:50|（休憩）|スイーツタイム|
 |19:50 - 20:25| "@hiromi2424":http://twitter.com/hiromi2424 |セッション2（内容未定）|
-|20:30 - 20:40| 未定 |LT1（内容未定）※募集中|
-|20:40 - 20:50| 未定 |LT2（内容未定）※募集中|
+|20:30 - 20:40| "@mon_sat":http://twitter.com/mon_sat |(LT) CakePHP2.0による事例紹介 "http://tipshare.info/":http://tipshare.info/|
+|20:40 - 20:50| "@konsan":http://twitter.com/konsan |(LT) bake by CakePHP2.0|
 |20:50 - 21:00|  |閉会・アンケート|
-|21:00 - |  |懇親会/LT @ "Ajito":http://ameblo.jp/ecnavi-pr/entry-10119584044.html |
+|21:00 - |  |懇親会/LT @ "Ajito":http://ameblo.jp/ecnavi-pr/entry-10119584044.html|
+|/6.  |"@yando":http://twitter.com/yando|"candycane":https://github.com/yandod/candycane|
+|"@kaz_29":http://twitter.com/kaz_29|bake|
+|"@junnama":http://twitter.com/junnama|"MT Cake":https://github.com/alfasado/cakephp-plugin-mt-cake|
+|"@yuhei_kagaya":http://twitter.com/yuhei_kagaya|"cake.vim":http://d.hatena.ne.jp/yuhei_kagaya/20110508/1304842002|
+|募集中|（事例／LT）|
 
 h3. 募集
 
@@ -34,8 +39,8 @@ h3. 募集
 募集にあたっては、コメント欄か参加コメントに、仮でも良いのでタイトルをお伝えください。
 ※LT、事例紹介については 懇親会内 での発表になります。
 
-* セッション
-** 1枠約20分を目安に2枠
+* -セッション-
+** -1枠約20分を目安に2枠-
 * LT・事例紹介
 ** 1枠5～10分を目安に5枠程度
 
@@ -70,6 +75,13 @@ h3. スタッフ
 *** "@hiromi2424":https://twitter.com/#!/hiromi2424
 *** "@cakephper":https://twitter.com/#!/cakephper
 *** "@mon_sat":https://twitter.com/#!/mon_sat
+
+h3. Speakers
+* "@basuke":http://twitter.com/basuke
+* "@yando":http://twitter.com/yando
+* "@kaz_29":http://twitter.com/kaz_29
+* "@junnama":http://twitter.com/junnama
+* "@yuhei_kagaya":http://twitter.com/yuhei_kagaya
 
 h3. Special Thanks （当日お手伝いいただける方など）
 
