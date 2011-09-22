@@ -30,7 +30,7 @@ h3. タイムライン
 |"@kaz_29":http://twitter.com/kaz_29|bake|
 |"@junnama":http://twitter.com/junnama|"MT Cake":https://github.com/alfasado/cakephp-plugin-mt-cake|
 |"@yuhei_kagaya":http://twitter.com/yuhei_kagaya|"cake.vim":http://d.hatena.ne.jp/yuhei_kagaya/20110508/1304842002|
-|募集中|（事例／LT）|
+|"@gusagi":http://twitter.com/gusagi|（内容未定）|
 
 h3. 募集
 
@@ -82,6 +82,7 @@ h3. Speakers
 * "@kaz_29":http://twitter.com/kaz_29
 * "@junnama":http://twitter.com/junnama
 * "@yuhei_kagaya":http://twitter.com/yuhei_kagaya
+* "@gusagi":http://twitter.com/gusagi
 
 h3. Special Thanks （当日お手伝いいただける方など）
 
