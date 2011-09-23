@@ -19,7 +19,7 @@ h3. タイムライン
 |_. 時間|_. 発表者|_. タイトル|
 |18:30 - 19:00|  |開場・受付け ※参加費用はこのタイミングで徴収いたします|
 |19:00 - 19:15| "@cakephper":http://twitter.com/cakephper |オープニング|
-|19:15 - 19:35| "@basuke":http://twitter.com/basuke |セッション1（内容未定）|
+|19:15 - 19:35| "@basuke":http://twitter.com/basuke |セッション1「CakePHP2.0のModel関係の変更点と、Entity Pluginの2.0対応状況報告」|
 |19:35 - 19:50|（休憩）|スイーツタイム|
 |19:50 - 20:25| "@hiromi2424":http://twitter.com/hiromi2424 |セッション2（内容未定）|
 |20:30 - 20:40| "@mon_sat":http://twitter.com/mon_sat |(LT) CakePHP2.0による事例紹介 "http://tipshare.info/":http://tipshare.info/|
