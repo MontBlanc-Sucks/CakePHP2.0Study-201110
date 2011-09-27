@@ -30,7 +30,7 @@ h3. タイムライン
 |"@kaz_29":http://twitter.com/kaz_29|bake|
 |"@junnama":http://twitter.com/junnama|"MT Cake":https://github.com/alfasado/cakephp-plugin-mt-cake|
 |"@yuhei_kagaya":http://twitter.com/yuhei_kagaya|"cake.vim":http://d.hatena.ne.jp/yuhei_kagaya/20110508/1304842002|
-|"@gusagi":http://twitter.com/gusagi|（内容未定）|
+|"@gusagi":http://twitter.com/gusagi|CakePHP2.0の例外処理 ちょっとだけ食べてみた|
 
 h3. 募集
 
