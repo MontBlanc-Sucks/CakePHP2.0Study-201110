@@ -21,7 +21,7 @@ h3. タイムライン
 |19:00 - 19:15| "@cakephper":http://twitter.com/cakephper |オープニング|
 |19:15 - 19:35| "@basuke":http://twitter.com/basuke |セッション1<br>「CakePHP2.0のModel関係の変更点と、Entity Pluginの2.0対応状況報告」|
 |19:35 - 19:50|（休憩）|スイーツタイム|
-|19:50 - 20:25| "@hiromi2424":http://twitter.com/hiromi2424 |セッション2（内容未定）|
+|19:50 - 20:25| "@hiromi2424":http://twitter.com/hiromi2424 |セッション2<br>「CakePHP2.0の新しいAuth」|
 |20:30 - 20:40| "@mon_sat":http://twitter.com/mon_sat |(LT) CakePHP2.0による事例紹介 "http://tipshare.info/":http://tipshare.info/|
 |20:40 - 20:50| "@konsan":http://twitter.com/konsan |(LT) bake by CakePHP2.0|
 |20:50 - 21:00|  |閉会・アンケート|
